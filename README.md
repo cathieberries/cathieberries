@@ -16,6 +16,9 @@ Currently focused on **Laravel**, **Tailwind CSS**, and **frontend design**.
 - 🎀 Aesthetic UI is my love language  
 - 🎧 Coding with playlists and coffee  
 
+<div align="right">
+  <img src="https://i.pinimg.com/1200x/a4/55/7e/a4557ee181048889c017f60adfc601d4.jpg" width="230px" style="border-radius: 12px;" />
+</div>
 ---
 
 ## 🛠️ Technologies
