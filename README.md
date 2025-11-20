@@ -18,8 +18,9 @@ I'm currently learning modern tools and improving my workflow to create better U
 - Building small projects to sharpen skills  
 
 <div align="right">
-  <img src="https://i.pinimg.com/736x/99/37/6e/99376e1cd802b0fd3b65bc2482ee410b.jpg" width="230px" style="border-radius: 12px;" />
+  <img src="https://i.pinimg.com/1200x/a4/55/7e/a4557ee181048889c017f60adfc601d4.jpg" width="230px" style="border-radius: 12px;" />
 </div>
+
 
 ---
 
