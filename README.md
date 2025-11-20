@@ -17,10 +17,6 @@ I'm currently learning modern tools and improving my workflow to create better U
 - Enjoy making simple, aesthetic layouts  
 - Building small projects to sharpen skills  
 
-<div align="right" style="position: relative; top: -40px;">
-  <img src="https://i.pinimg.com/1200x/a4/55/7e/a4557ee181048889c017f60adfc601d4.jpg" width="250px" style="border-radius: 12px;" />
-</div>
-
 ---
 
 <h2 align="center">🛠️ Technologies</h2>
@@ -35,7 +31,6 @@ I'm currently learning modern tools and improving my workflow to create better U
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=cathieberries&show_icons=true&theme=rose_pine" />
-  <img height="150" src="https://streak-stats.demolab.com?user=cathieberries&theme=rose_pine" />
 </div>
 
 ---
