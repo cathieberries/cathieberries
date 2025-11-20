@@ -2,8 +2,8 @@
   <img src="https://i.pinimg.com/1200x/be/49/5a/be495a9ae2bb6de49ac21e5f83f269b6.jpg" width="100%" />
 </p>
 
-<h1 align="center">🌸 Hi, I'm Cathie 🌸</h1>
-<p align="center">✨ Student • Web Developer • UI Enthusiast ✨</p>
+<h1 align="center">✭ Hi, I'm Cathie ✭</h1>
+<p align="center">ᰔ Student • Web Developer • UI Enthusiast ᰔ</p>
 
 ---
 
