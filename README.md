@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%">
+<img src="blob:https://id.pinterest.com/6ba2fd96-35a7-4610-a22d-9c6a889346fb" width="100%">
 
 <!--
 **cathieberries/cathieberries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
