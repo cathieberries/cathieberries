@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/1200x/be/49/5a/be495a9ae2bb6de49ac21e5f83f269b6.jpg" width="100%" />
 </p>
 
-<h1 align="center">✭ Hi, I'm Cathie ✭</h1>
+<h1 align="center">✮⋆˙ Hi, I'm Cathie ✮⋆˙</h1>
 <p align="center">Student • Frontend Developer</p>
 
 ---
@@ -11,7 +11,7 @@
 I'm Cathie — a student who enjoys frontend development and building clean, minimal interfaces.  
 I'm currently learning modern tools and improving my workflow to create better UI experiences.
 
-**What I do:**
+** 𐔌՞. .՞𐦯 What I do:**
 - Focus on frontend development  
 - Learning frameworks & improving coding habits  
 - Enjoy making simple, aesthetic layouts  
@@ -19,7 +19,7 @@ I'm currently learning modern tools and improving my workflow to create better U
 
 ---
 
-<h2 align="center">🛠️ Technologies</h2>
+<h2 align="center"> Technologies ᯓ★</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,mysql,git,github,vscode&perline=8" />
@@ -27,7 +27,7 @@ I'm currently learning modern tools and improving my workflow to create better U
 
 ---
 
-<h2 align="center">💗 GitHub Stats</h2>
+<h2 align="center">⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ GitHub Stats</h2>
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=cathieberries&show_icons=true&theme=rose_pine" />
