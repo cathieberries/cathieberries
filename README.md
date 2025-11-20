@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">✮⋆˙ Hi, I'm Cathie ✮⋆˙</h1>
-<p align="center">Student • Frontend Developer</p>
+<p align="center">ʚɞ Student • Frontend Developer ʚɞ</p>
 
 ---
 
