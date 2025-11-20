@@ -11,7 +11,7 @@
 I'm Cathie — a student who enjoys frontend development and building clean, minimal interfaces.  
 I'm currently learning modern tools and improving my workflow to create better UI experiences.
 
-** 𐔌՞. .՞𐦯 What I do:**
+ 𐔌՞. .՞𐦯 What I do:
 - Focus on frontend development  
 - Learning frameworks & improving coding habits  
 - Enjoy making simple, aesthetic layouts  
@@ -27,7 +27,7 @@ I'm currently learning modern tools and improving my workflow to create better U
 
 ---
 
-<h2 align="center">⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ GitHub Stats</h2>
+<h2 align="center">GitHub Stats⁭</h2>
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=cathieberries&show_icons=true&theme=rose_pine" />
@@ -35,7 +35,7 @@ I'm currently learning modern tools and improving my workflow to create better U
 
 ---
 
-<h2 align="center">🩷 Activity Graph</h2>
+<h2 align="center">────୨ৎ────</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cathieberries&theme=rose_pine" />
@@ -43,7 +43,7 @@ I'm currently learning modern tools and improving my workflow to create better U
 
 ---
 
-<h2 align="center">🌸 Socials</h2>
+<h2 align="center">𐙚 Socials</h2>
 
 <p align="center">
   <a href="YOUR_IG_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -52,4 +52,4 @@ I'm currently learning modern tools and improving my workflow to create better U
 
 ---
 
-<p align="center">🌷 Thanks for visiting my profile! 🌷</p>
+<p align="center">𖹭 Thanks for visiting my profile! 𖹭</p>
