@@ -7,7 +7,7 @@
 
 ---
 
-## 🌷 About Me
+## -ˋˏ✄┈┈┈┈ About Me
 Hi! I'm Cathie — I enjoy creating cute and aesthetic web interfaces, learning modern frameworks, and building real projects that look clean & fun.  
 Currently focused on **Laravel**, **Tailwind CSS**, and **frontend design**.
 
