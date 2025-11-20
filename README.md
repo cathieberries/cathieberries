@@ -22,7 +22,7 @@ I'm currently learning modern tools and improving my workflow to create better U
 <h2 align="center"> Technologies ᯓ★</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,mysql,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,mysql,git,github,nodejs,vscode&perline=8" />
 </p>
 
 ---
