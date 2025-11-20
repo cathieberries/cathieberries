@@ -3,28 +3,24 @@
 </p>
 
 <h1 align="center">✭ Hi, I'm Cathie ✭</h1>
-<p align="center">ᰔ Student • Web Developer • UI Enthusiast ᰔ</p>
+<p align="center">Student • Frontend Developer</p>
 
 ---
 
 ## ₍^. .^₎⟆ About Me
-Hi! I'm Cathie — I enjoy creating cute and aesthetic web interfaces, learning modern frameworks, and building real projects that look clean & fun.  
-Currently focused on **Laravel**, **Tailwind CSS**, and **frontend design**.
-
-- 🌱 Learning full-stack development  
-- 💻 Love building dashboards & mini apps  
-- 🎀 Aesthetic UI is my love language  
-- 🎧 Coding with playlists and coffee  
+I'm Cathie — a student who enjoys working on frontend stuff and building clean, simple interfaces.  
+Currently learning frameworks and improving my UI workflow.
 
 <div align="right">
-  <img src="https://i.pinimg.com/1200x/a4/55/7e/a4557ee181048889c017f60adfc601d4.jpg" width="230px" style="border-radius: 12px;" />
+  <img src="https://i.pinimg.com/736x/99/37/6e/99376e1cd802b0fd3b65bc2482ee410b.jpg" width="230px" style="border-radius: 12px;" />
 </div>
+
 ---
 
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind,mysql,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,mysql,git,github,vscode&perline=8" />
 </p>
 
 ---
@@ -48,8 +44,8 @@ Currently focused on **Laravel**, **Tailwind CSS**, and **frontend design**.
 ## 🌸 Socials
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="YOUR_IG_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="YOUR_DISCORD_LINK"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ---
